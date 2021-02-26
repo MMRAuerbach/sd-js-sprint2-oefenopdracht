@@ -3,6 +3,12 @@ html, body, td, h1, h2, h3, h4, h5, h6 {
     background-color: #0f0f0f;
     font-family: 'verdana', sans-serif;
     color: rgb(224, 220, 220);
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    margin-left: 5px;
 }
 
 a {
@@ -13,8 +19,11 @@ a {
 a:hover {
     text-decoration: underline;
 }
-
 /* Starting the real (class based) CSS/ styling */
+
+.normal-text {
+    max-width: 650px;
+}
 
 .footer {
     margin-top: 50px;
