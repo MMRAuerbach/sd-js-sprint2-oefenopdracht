@@ -1,7 +1,7 @@
 // main.js - het Javascript bestand voor Sprint 2
 
 //Op de HTML pagina vind je een section met een ID genaamd start. Deze kan je als variabele gebruiken.
-console.log('start');
+console.log(start);
 
 //Omdat het een  NODE is op je pagina kan je er ook doorheen lopen.
 let i = 0;
