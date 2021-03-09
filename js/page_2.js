@@ -17,3 +17,4 @@ while (i < start.childNodes.length) {
 //Opdracht 2 - Loop ook eens door de hele <body> en <head> onderdelen heen.
 
 
+
